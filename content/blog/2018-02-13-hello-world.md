@@ -1,6 +1,6 @@
 ---
-title: Welcome to Bael, a free Nuxt / NetlifyCMS powered blog template
-date: Tuesday February 13th, 2018
+title: "Welcome to AceBrandage "
+date: Saturday November 7th, 2020
 thumbnail: /images/uploads/bael-big.jpg
 ---
 **Bael is a free template that gives you an easy way to start a blog that uses modern technologies like static-site JAMstack architecture, CSS grid layout, responsive design, a serverless function that handles emails newsletter signup with Sendgrid, and fuzzy search — all wrapped up in a brutalist aesthetic.**
